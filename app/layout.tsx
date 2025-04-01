@@ -1,7 +1,10 @@
 import type { Metadata } from 'next';
-import './globals.css';
+import './app/global.css';
 
-export const metadata: Metadata = {
+export const meta
+
+
+data: Metadata = {
   title: 'Ambitious Dreams - Credit Repair Services',
   description: 'Transform your credit score and financial future with our expert credit repair services.',
 };
@@ -17,4 +20,6 @@ export default function RootLayout({
     </html>
   );
 }
+
+
 
