@@ -3,7 +3,8 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   // Tell Next.js where to find the App Router directory
-  appDir: "src/app",
+  appDir: "lonlonmuskjr/ambitious-dreamers-website/app",
 };
 
 module.exports = nextConfig;
+
